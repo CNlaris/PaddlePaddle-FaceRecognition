@@ -71,8 +71,6 @@ python infer.py --image_path=temp/test.jpg
 识别的人脸名称： ['杨幂', '迪丽热巴']
 总识别时间：53ms
 ```
-![识别结果](./dataset/result.jpg)
-
 如果是通过相机预测的，请执行下面命令。
 ```shell
 python infer_camera.py --camera_id=0
